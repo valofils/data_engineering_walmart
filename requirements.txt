@@ -1,5 +1,5 @@
 streamlit==1.45.0
 sqlalchemy
-psycopg2
+psycopg2-binary
 pandas
 matplotlib
