@@ -1,0 +1,3 @@
+cd D:\data_engineering\walmart
+
+C:/Python313/python.exe -m streamlit run walmart_dashboard.py
